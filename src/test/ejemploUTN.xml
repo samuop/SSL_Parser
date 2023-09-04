@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article>
+  <info>
+    <title>Universidad Tecnológica Nacional - Facultad Regional Resistencia</title>
+    <mediaobject>
+      <imageobject>
+        <imagedata fileref="imagenes/utn.jpg"/>
+      </imageobject>
+    </mediaobject>
+    <abstract>
+      <para>
+        La Universidad Tecnológica Nacional (UTN) es una institución educativa de Argentina.
+        La Facultad Regional Resistencia (FRRE) es una de las sedes de la UTN.
+      </para>
+    </abstract>
+  </info>
+  
+  <section>
+    <title>Presentación</title>
+    <para>
+      Somos una institución de educación superior, donde la comunidad académica, los emprendedores y la sociedad encuentran el escenario adecuado para compartir un proyecto educativo crítico, flexible e integral,
+    </para>
+    <para>
+    aprenden a conocer, hacer, convivir y ser, dentro de altas exigencias académicas y con un sentido de responsabilidad social conducente al mejoramiento de la calidad de vida a nivel regional, nacional e internacional.
+    </para>
+   
+  </section>
+  
+  <section>
+    <title>Carrera: Ingeniería en Sistemas de Información</title>
+    <mediaobject>
+      <imageobject>
+        <imagedata fileref="imagenes/isi.gif"/>
+      </imageobject>
+    </mediaobject>
+    <para>
+      La carrera de Ingeniería en Sistemas de Información de la UTN FRRE ofrece una formación integral en el diseño, desarrollo y gestión de sistemas de información.
+      Los estudiantes adquieren conocimientos en programación, bases de datos, redes, seguridad informática y más.
+    </para>
+    <para>
+      Con un enfoque práctico y orientado al mercado laboral, los graduados de la carrera están preparados para enfrentar los desafíos tecnológicos de la actualidad y contribuir al desarrollo de soluciones innovadoras.
+    </para>
+    <informaltable>
+      <title>Video promocional</title>
+      <mediaobject>
+        <videoobject>
+          <videodata fileref="https://www.youtube.com/embed/9SIKuoYUezw"/>
+        </videoobject>
+      </mediaobject>
+    </informaltable>
+  </section>
+  <important>
+  <section>
+
+    <title>Contacto</title>
+    <address>
+      <street>C. French 414</street>
+      <city>Resistencia</city>
+      <state>Chaco</state>
+      <phone>Tel/Fax: (54-0362) 4432683 / 4432928</phone>
+      <email>academica@frre.utn.edu.ar</email>
+    </address>
+  </section>
+
+  <section>
+    
+    <title>Enlace a la página web</title>
+    <para>
+      Puedes obtener más información sobre la UTN FRRE y la carrera de Ingeniería en Sistemas de Información en nuestra página web:
+      <link xlink:href="https://www.frre.utn.edu.ar/ingresantes"/>
+    </para>
+  </section>
+  </important>
+</article>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article>
+  <info>
+    <title>Trabajo Practico Integrador: Diseno e implementacion de Lexer y Parser</title>
+    <abstract>
+      <para>Aceptor DocBook/XML y Conversor a HTML</para>
+      <simpara>Simple Parrafo: Aceptor DocBook/XML y Conversor a HTML</simpara>
+    </abstract>
+    <author>
+        <personname><firstname>Rodrigo</firstname>
+        <surname>Villa</surname></personname>
+    </author>
+    <date>2023-05-01</date>
+    <address>
+      <city>Ciudad Autonoma de Buenos Aires</city>
+      <state>Buenos Aires</state>
+      <street>Av. Corrientes 123</street>
+      <phone>3624888888</phone>
+    </address>
+  </info>
+
+  <para>
+    Agregue este para porque de otra forma no cumple con la estructura gramatical de nuestro codigo
+  </para>
+  <section>
+    <title>Introduccion</title>
+    <para>Esta es la introduccion del documento.</para>
+  </section>
+  <section>
+    <title>Desarrollo</title>
+    <para>Este es el desarrollo del documento.</para>
+  </section>
+  <section>
+    <title>Conclusion</title>
+    <para>Esta es la conclusion del documento.</para>
+  </section>
+</article>

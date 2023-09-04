@@ -1,0 +1,28 @@
+<!DOCTYPE article>
+<article>
+<info>
+    <author>
+      <personname>
+        <firstname>
+            Franco
+        </firstname>
+        <surname>
+            Sanchez
+        </surname>
+      </personname>
+    </author>
+</info>
+<title>
+    <emphasis> TEXTO PRUEBA</emphasis>
+</title>
+<mediaobject>
+    <imagedata>
+        <imagedata fileref="//ichef.bbci.co.uk/news/800/cpsprodpb/15665/production/_107435678_perro1.jpg"/>
+    </imagedata>
+</mediaobject>
+<section>
+  <title>
+        Testeando la estructura
+  </title>
+</section>
+</article>
